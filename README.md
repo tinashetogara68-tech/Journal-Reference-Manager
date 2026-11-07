@@ -1,6 +1,8 @@
 # Journal-Reference-Manager
 # Journal Reference Manager
 
+![image alt](https://github.com/tinashetogara68-tech/Journal-Reference-Manager/blob/a9c686d26d7e91e12d0668e6e8bda17c45f9d6b3/Screenshot%20(1).png)
+
 A C++ application developed using the Qt Framework for managing academic journal article references. The application demonstrates Qt's Model-View architecture through data management, sorting, filtering, input validation and dynamic visual formatting.
 
 ## Features
