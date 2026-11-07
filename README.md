@@ -21,13 +21,13 @@ A C++ application developed using the Qt Framework for managing academic journal
 
 Each journal reference contains the following fields:
 
-Author - Article Author
-Year - Year of Publication
-Title - Article title
-Journal - Name of the journal
-Volume - Journal volume number
-Issue - Journal issue number
-Pages - Article page range
+Author - Article Author |
+Year - Year of Publication |
+Title - Article title |
+Journal - Name of the journal |
+Volume - Journal volume number |
+Issue - Journal issue number |
+Pages - Article page range 
 
 
 ## Technologies Used
